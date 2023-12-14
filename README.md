@@ -1,2 +1,2 @@
-# recipes
-A simple recipe website to learn/practice html.
+# Recipes
+A simple project to practice html.
